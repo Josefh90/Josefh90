@@ -1,4 +1,4 @@
-Hi, I'm a seasoned full-stack developer with over 10 years of experience in software and web development — or as I like to call it, "building useful things with equal parts logic and caffeine."
+Hi, I'm a full-stack developer with over 10 years of experience in software and web development — or as I like to call it, "building useful things with equal parts logic and caffeine."
 Professionally, I work on medical software in the field of reproductive medicine. Yes, that means I write code that helps make tiny humans possible. 🧬👶
 
 Until now, my GitHub has been more of a digital ghost town. But that’s about to change.
